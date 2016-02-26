@@ -1,6 +1,6 @@
 FROM centos:latest
 
-MAINTAINER Adesis
+MAINTAINER Sergio Perez <serperga@gmail.com>
 
 RUN yum update -y && \
 yum install -y wget
