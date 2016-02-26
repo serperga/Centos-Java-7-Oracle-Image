@@ -4,7 +4,7 @@ This is a simple docker image for Oracle Java 7 Docker image based on Centos 7
 
 # Supported tags and respective `Dockerfile` links
 
--	[`jdk7`, `latest` (*jdk8/Dockerfile*)](https://github.com/serperga/Centos-Java-7-Oracle-Image/Dockerfile)
+-	[`jdk7`, `latest` (*jdk7/Dockerfile*)](https://github.com/serperga/Centos-Java-7-Oracle-Image/Dockerfile)
 
 # Usage
 
